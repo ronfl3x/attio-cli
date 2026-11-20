@@ -30,12 +30,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/attio-cli.git"
+    "url": "https://github.com/ronfl3x/attio-cli.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/attio-cli/issues"
+    "url": "https://github.com/ronfl3x/attio-cli/issues"
   },
-  "homepage": "https://github.com/yourusername/attio-cli#readme",
+  "homepage": "https://github.com/ronfl3x/attio-cli#readme",
   "files": [
     "dist",
     "README.md",
